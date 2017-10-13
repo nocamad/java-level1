@@ -1,4 +1,4 @@
-package ru.geekbrains.java1.dz.dz1;
+package ru.geekbrains.java1.dz.dz1.DunaevArtur;
 
 public class HomeWork1 {
 
